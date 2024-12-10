@@ -1,0 +1,64 @@
+
+INFO: Vendor 1 added 22 tickets.
+Current pool size: 133
+Remaining pool capacity: 978
+
+INFO: Vendor 2 added 22 tickets.
+Current pool size: 155
+Remaining pool capacity: 956
+
+INFO: Customer 1 purchased 33 tickets.
+Current pool size: 122
+Remaining pool capacity: 989
+
+INFO: Customer 3 purchased 33 tickets.
+Current pool size: 89
+Remaining pool capacity: 1022
+
+INFO: Customer 2 purchased 33 tickets.
+Current pool size: 56
+Remaining pool capacity: 1055
+
+INFO: Vendor 1 added 22 tickets.
+Current pool size: 78
+Remaining pool capacity: 1033
+
+INFO: Vendor 2 added 22 tickets.
+Current pool size: 100
+Remaining pool capacity: 1011
+
+INFO: Customer 1 purchased 33 tickets.
+Current pool size: 67
+Remaining pool capacity: 1044
+
+INFO: Customer 3 purchased 33 tickets.
+Current pool size: 34
+Remaining pool capacity: 1077
+
+INFO: Customer 2 purchased 33 tickets.
+Current pool size: 1
+Remaining pool capacity: 1110
+
+INFO: Vendor 1 added 22 tickets.
+Current pool size: 23
+Remaining pool capacity: 1088
+
+INFO: Vendor 2 added 22 tickets.
+Current pool size: 45
+Remaining pool capacity: 1066
+
+INFO: Customer 1 purchased 33 tickets.
+Current pool size: 12
+Remaining pool capacity: 1099
+
+INFO: Vendor 1 added 22 tickets.
+Current pool size: 34
+Remaining pool capacity: 1077
+
+INFO: Vendor 2 added 22 tickets.
+Current pool size: 56
+Remaining pool capacity: 1055
+
+INFO: Customer 1 purchased 33 tickets.
+Current pool size: 23
+Remaining pool capacity: 1088
